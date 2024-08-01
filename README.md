@@ -1,5 +1,5 @@
 # Profile-website
-noob dev
+noob dev\n
 still learning html css and javascript
 This is my first project
 it have so many bugs but idk how to fix :(
